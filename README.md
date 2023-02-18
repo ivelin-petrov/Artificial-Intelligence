@@ -5,7 +5,7 @@ frogs - Jumping frogs puzzle
   >> ~ 2.03 sec for N = 25 (without printing the result)  
   >> ~ 6.05 sec for N = 25 (printing the result)  
 
-n puzzle
+n puzzle 
   > IDА* algorithm
    
 n queens problem 
