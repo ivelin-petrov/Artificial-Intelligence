@@ -1,5 +1,4 @@
 # Artificial-Intelligence
-Core course at FMI
 
 frogs - Jumping frogs puzzle 
   > recursion + backtracking  
