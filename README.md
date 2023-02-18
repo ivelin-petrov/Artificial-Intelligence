@@ -2,8 +2,8 @@
 Core course at FMI
 
 frogs - Jumping frogs puzzle 
-  * recursion + backtracking  
-  * N = 25 for ~ 2.03 sec (without printing the result)  
+  > recursion + backtracking  
+  >> N = 25 for ~ 2.03 sec (without printing the result)  
   * N = 25 for ~ 6.05 sec (printing the result)  
   
 n puzzle (IDА* algorithm)  
